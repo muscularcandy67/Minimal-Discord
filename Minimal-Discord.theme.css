@@ -1,0 +1,108 @@
+//META{"name":"Minimal Discord","description":"A simple theme that changes the dot status into a circle","author":"MC67","version":"0.1"}*//{}
+
+.statusOnline-1FlpW_{
+    background-color:transparent;
+    border: 2px solid #43b581 !important;
+    top: -2px !important;
+    right:-2px !important;
+    }
+.statusInvisible-23hZKw, .statusOffline-3R-4Bv {
+    background-color: transparent;
+    border: 2px solid  #747f8d !important;
+    top: -2px !important;
+    right:-2px !important;
+    }
+.statusDnd-2DDKST{
+    background-color:transparent;
+    border: 2px solid #f04747 !important;
+    top: -2px !important;
+    }
+.statusIdle-1XoSCz{
+    background-color:transparent;
+    border: 2px solid #faa61a !important;
+    top: -2px !important;
+    right:-2px !important;
+    }
+.statusStreaming-2eqoUF{
+    background-color:transparent;
+    border: 2px solid #593695 !important;
+    top: -2px !important;
+    right:-2px !important;
+}
+.avatar-small .status.status-online{
+	background-color:transparent;
+    border: 2px solid #43b581 !important;
+    border-radius: 999px;
+    top: -2px !important;
+    right:-2px !important;
+    width:100%;
+    height:100%;
+    border-width: 2px !important;
+    position:absolute;
+}
+.avatar-small .status.status-invisible, .avatar-small .status.status-offline{
+	background-color:transparent;
+    border: 2px solid #747f8d !important;
+    border-radius: 999px;
+    top: -2px !important;
+    right:-2px !important;
+    width:100%;
+    height:100%;
+    border-width: 2px !important;
+    position:absolute;
+}
+.avatar-small .status.status-idle{
+	background-color:transparent;
+    border: 2px solid #faa61a !important;
+    border-radius: 999px;
+    top: -2px !important;
+    right:-2px !important;
+    width:100%;
+    height:100%;
+    border-width: 2px !important;
+    position:absolute;
+}
+.avatar-small .status.status-dnd{
+	background-color:transparent;
+    border: 2px solid #f04747 !important;
+    border-radius: 999px;
+    top: -2px !important;
+    right:-2px !important;
+    width:100%;
+    height:100%;
+    border-width: 2px !important;
+    position:absolute;
+}
+.status-oxiHuE{
+    width:100%;
+    height:100%;
+    border-width: 2px !important;
+    position:absolute;
+    top: -2px;
+    right:-2px;
+    }
+.small-5Os1Bb .statusTyping-2ed9jJ {
+    border-radius: 999px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: hidden;
+    top: -2px !important;
+    right:-2px !important;
+    width: 100% !important;
+}
+.menu-Sp6bN1.alt-3btY0e{
+	top:-75px !important;
+}
+.avatarSpeaking-1wJCNq{
+	box-shadow: inset 0 0 0 2px #43b581;
+}
+
+.callAvatarBorder-1D_KaE.voice-2D-tt_.speaking-oCqYMI {
+	box-shadow: inset 0 0 0 3px #43b581;
+}
+.unread-mentions-indicator-bottom{
+    display: none;
+}
+
+
