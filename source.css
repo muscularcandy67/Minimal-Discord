@@ -1,0 +1,132 @@
+@keyframes streaming-flash {
+    0% { box-shadow: 0 0 0 0px rgba(89,54,149,0.4); }
+    50% { box-shadow: 0 0 0 4px rgba(89,54,149,0.65); }
+    100% { box-shadow: 0 0 0 8px rgba(89,54,149,0); }
+}
+
+.online-2S838R:not(.large-3ChYtB){
+    background-color:transparent;
+    border: 2px solid #43b581 !important;
+    }
+.offline-3qoTek:not(.large-3ChYtB),.invisible-1kp8Z0:not(.large-3ChYtB),.avatarOffline-3GF27z{
+    background-color: transparent;
+    border: 2px solid #747f8d  !important;
+    }
+.dnd-1_xrcq:not(.large-3ChYtB){
+    background-color:transparent;
+    border: 2px solid #f04747  !important;
+    }
+.idle-3DEnRT:not(.large-3ChYtB){
+    background-color:transparent;
+    border: 2px solid #faa61a  !important;
+    }
+.streaming-2_dnHe:not(.large-3ChYtB){
+    background-color:transparent;
+    border: 2px solid #593695  !important;
+    animation: streaming-flash 1.4s linear infinite;
+}
+.status-oxiHuE:not(.large-3ChYtB),.small-5Os1Bb.status{
+    border-radius: 999px;
+    width:100%;
+    height: inherit;
+    position:absolute;
+    top:-2px !important;
+    left: -2px !important;
+    pointer-events:none;
+}
+.avatarSpeaking-1wJCNq{
+    box-shadow: 0 0 0 2px #43b581;
+}
+.avatarSpeaking-1wJCNq{
+    opacity: 1;
+}
+
+.callAvatarBorder-1D_KaE.video-3GgX2M.selected-2esnyn.soundsharing-102bS9{
+    border-radius: 999px;
+    background-color: transparent;
+    border: 2px #7662f1 !important;
+    width: 100%;
+    overflow: hidden;
+}
+
+.callAvatarBorder-1D_KaE.video-3GgX2M.soundsharing-102bS9{
+    box-shadow: inset 0 0 0 2px #7662f1;
+}
+
+.callAvatarBorder-1D_KaE.video-3GgX2M.speaking-oCqYM,.callAvatarBorder-1D_KaE.video-3GgX2M.speaking-oCqYMI{
+    border-radius: 100px;
+    background-color:transparent;
+    box-shadow: inset 0 0 0 2px #43b581;
+    width: 100% !important;
+}
+
+.callAvatarBorder-1D_KaE.voice-2D-tt_.speaking-oCqYMI{
+    box-shadow: inset 0 0 0 3px #43b581;
+    
+}
+
+.wrapper-1wyZBN.da-wrapper~.callAvatarBorder-1D_KaE.video-3GgX2M.speaking-oCqYM,.wrapper-1wyZBN.da-wrapper~.callAvatarBorder-1D_KaE.video-3GgX2M.speaking-oCqYMI{
+     border-radius: 100px;
+    background-color:transparent;
+    box-shadow: inset 0 0 0 2px #43b581;
+    width: 100% !important;
+}
+
+.speaking-oCqYM,.speaking-oCqYMI{
+    border-radius: 100px;
+    background-color:transparent;
+    box-shadow: inset 0 0 0 2px #43b581;
+    width: 100% !important;
+}
+
+
+.callAvatarBorder-1D_KaE.video-3GgX2M.selected-2esnyn.soundsharing-102bS9.speaking-oCqYMI{
+    box-shadow: unset;
+    box-shadow: inset 0 0 0 2px #43b581;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: hidden;
+}
+
+
+.unread-mentions-indicator-bottom,.unread-mentions-indicator-top{
+    display: none;
+}
+.nameDefault-2s3kbY, .avatarDefault-35WC3R{
+    opacity:0.5;
+}
+.userHovered-2_fT4Z, .userHovered-2_fT4Z .avatarDefault-35WC3R{
+    opacity:1;
+}
+.nameSpeaking-3UhoEZ{
+    opacity:1;
+}
+
+.mask-3OgeRz{
+    -webkit-mask: none;
+}
+
+.icon-3o6xvg.guild-icon.iconSizeLarge-161qtT.iconInactive-98JN5i{
+    border-radius: 25px;
+}
+
+.typing-1KJk_j{
+    border-radius:5px;
+    display:-webkit-box;
+    display:-ms-flexbox;
+    display:flex;
+    height:30px!important;
+    overflow:hidden;
+     right:-11px!important; 
+     width:100%!important; 
+ }
+.typingSpinnerItem-35chrT{
+    background-color:#fff;
+    height:4px;
+    width:4px;
+}
+
+.draggable-1KoBzC .ma-usertag { 
+    display: none; 
+}
