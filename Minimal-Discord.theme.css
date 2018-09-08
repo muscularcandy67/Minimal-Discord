@@ -1,4 +1,4 @@
-//META{"name":"Material-Discord v2","description":"A theme based on Google's Material Design by CapnKitten, with some modification \n Designed for Dark Discord","author":"MuscularCandy67","version":"1.0.9 release"}*//{}
+//META{"name":"MinimalDiscord","description":"A theme based on Google's Material Design by CapnKitten, with some modification \n Designed for Dark Discord","author":"MuscularCandy67","version":"1.0.9 release"}*//{}
 
 @import url(https://capnkitten.github.io/BetterDiscord/Material-Discord/css/source.css);
 
@@ -182,7 +182,7 @@
     width:4px;
 }
 
-.draggable-1KoBzC .ma-usertag { 
+.draggable-1KoBzC .ma-usertag{ 
     display: none; 
 }
 
